@@ -1,7 +1,5 @@
 # Controller Poller for OJDS-NX
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R11DV5K)
-
 This is a simple program that will poll OJDS-NX for controller inputs and output them to the standard output stream in a CSV format. The CSV has the following columns:
 
 * Left Joystick - X (-1.0 - 1.0)
